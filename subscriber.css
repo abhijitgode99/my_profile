@@ -1,0 +1,68 @@
+body{
+    background-color:rgb(219, 220, 222);   
+   }
+.container{
+       background-color:white;
+       height:760px;
+       width:400px;
+       margin-left: 550px;
+       margin-top: 40px;
+       border-radius: 10px;
+       padding:20px 20px 20px 20px;
+   }
+.box{
+    background-color: rgb(68, 165, 221);
+    font-size: large;
+    padding:20px 20px 20px 20px;
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+h2{
+    font-family: 'Nunito', sans-serif;
+}
+label{
+    color:black;
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+span{
+    color:red;
+}
+#text1{
+    width: 390px;
+    height: 35px;
+    background-color: aliceblue;
+    font-size: x-large;
+    border-radius: 5px ;
+    border-color: rgb(243, 244, 244);
+    margin-top: 10px;
+}
+textarea{
+    width: 375px;
+    background-color: aliceblue;
+    font-size: x-large;
+    border-radius: 5px ;
+    border-color: rgb(182, 189, 189);
+    margin-top: 10px;
+    padding:10px 10px 10px 10px;
+    font-family: 'Nunito', sans-serif;
+}
+#input{
+    padding:10px 0px 10px 0px;
+}
+button{
+    background-color: aliceblue;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    border-color: rgb(221, 231, 231);
+    border-radius: 5px ;
+    margin-top: 20px;
+    margin-left: 260px;
+    color:rgb(100, 102, 105);
+    border-color: rgb(182, 189, 189);
+}
